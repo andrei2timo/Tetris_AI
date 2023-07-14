@@ -80,4 +80,4 @@ This directory contains the images for the game icon and media for the README Fi
 - <b>Game Icon:</b> Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticons.com](https://www.flaticon.com/).
 - <b>Game Metrics Reference:</b> [Article](https://towardsdatascience.com/beating-the-world-record-in-tetris-gb-with-genetics-algorithm-6c0b2f5ace9b) by [Duc Anh Bui](https://towardsdatascience.com/@bdanh96)
 
-[![Developers Tag]( https://img.shields.io/badge/Developer-andrei2timo-red.svg )]( https://github.com/andrei2timo )<br>
+[![Developers Tag]( https://img.shields.io/badge/Developer-andrei2timo-blue.svg )]( https://github.com/andrei2timo )<br>
